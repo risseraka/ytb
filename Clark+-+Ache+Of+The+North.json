@@ -1,0 +1,1400 @@
+displayYTBResults({
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$media": "http://search.yahoo.com/mrss/",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearch/1.1/",
+        "xmlns$gd": "http://schemas.google.com/g/2005",
+        "xmlns$yt": "http://gdata.youtube.com/schemas/2007",
+        "gd$etag": "W/\"A0QMQXk9eip7I2A9WhdbGEs.\"",
+        "id": {
+            "$t": "tag:youtube.com,2008:videos"
+        },
+        "updated": {
+            "$t": "2011-10-17T16:36:20.762Z"
+        },
+        "category": [{
+            "scheme": "http://schemas.google.com/g/2005#kind",
+            "term": "http://gdata.youtube.com/schemas/2007#video"
+        }],
+        "title": {
+            "$t": "YouTube Videos matching query: Clark - Ache Of The North"
+        },
+        "logo": {
+            "$t": "http://www.youtube.com/img/pic_youtubelogo_123x63.gif"
+        },
+        "link": [{
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.youtube.com"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#feed",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?v=2"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#batch",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos/batch?v=2"
+        }, {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?alt=json&q=Clark+-+Ache+Of+The+North&start-index=1&max-results=25&v=2"
+        }, {
+            "rel": "service",
+            "type": "application/atomsvc+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?alt=atom-service&v=2"
+        }],
+        "author": [{
+            "name": {
+                "$t": "YouTube"
+            },
+            "uri": {
+                "$t": "http://www.youtube.com/"
+            }
+        }],
+        "generator": {
+            "$t": "YouTube data API",
+            "version": "2.1",
+            "uri": "http://gdata.youtube.com"
+        },
+        "openSearch$totalResults": {
+            "$t": 6
+        },
+        "openSearch$startIndex": {
+            "$t": 1
+        },
+        "openSearch$itemsPerPage": {
+            "$t": 25
+        },
+        "entry": [{
+            "gd$etag": "W/\"CkQESH47eCp7I2A9WhdbFEs.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:VuQFBrMfiuc"
+            },
+            "published": {
+                "$t": "2011-03-18T05:58:35.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-12T22:58:29.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Music",
+                "label": "Music"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Clark"
+            }],
+            "title": {
+                "$t": "Clark-Ache Of The North"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/VuQFBrMfiuc?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=VuQFBrMfiuc&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/VuQFBrMfiuc/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/VuQFBrMfiuc/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=VuQFBrMfiuc"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/VuQFBrMfiuc?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "ydnABB11"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/ydnabb11"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/VuQFBrMfiuc/comments?v=2",
+                    "countHint": 5
+                }
+            },
+            "yt$hd": {},
+            "media$group": {
+                "media$category": [{
+                    "$t": "Music",
+                    "label": "Music",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/VuQFBrMfiuc?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 309,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v6.cache4.c.youtube.com/CiILENy73wIaGQnnih-zBgXkVhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 309,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v2.cache2.c.youtube.com/CiILENy73wIaGQnnih-zBgXkVhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 309,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "ydnABB11",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "Clark- Ache Of The North",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "Clark"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=VuQFBrMfiuc&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/VuQFBrMfiuc/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:34.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/VuQFBrMfiuc/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/VuQFBrMfiuc/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:17.250",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/VuQFBrMfiuc/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:34.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/VuQFBrMfiuc/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:03:51.750",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Clark-Ache Of The North",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "309"
+                },
+                "yt$uploaded": {
+                    "$t": "2011-03-18T05:58:35.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "VuQFBrMfiuc"
+                }
+            },
+            "gd$rating": {
+                "average": 5.0,
+                "max": 5,
+                "min": 1,
+                "numRaters": 15,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "17",
+                "viewCount": "1576"
+            },
+            "yt$rating": {
+                "numDislikes": "0",
+                "numLikes": "15"
+            }
+        }, {
+            "gd$etag": "W/\"DEUAQ347eCp7I2A9WhdSF0g.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:Hyy-vKXrTRo"
+            },
+            "published": {
+                "$t": "2008-03-25T00:27:37.000Z"
+            },
+            "updated": {
+                "$t": "2011-07-27T08:44:02.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Film",
+                "label": "Film & Animation"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Ache"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Of"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "The"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "North"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "CLARK"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Warp"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Records"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "modul8"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "vj"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Turning"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Dragon"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "experimental"
+            }],
+            "title": {
+                "$t": "Ache Of The North"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/Hyy-vKXrTRo?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=Hyy-vKXrTRo&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Hyy-vKXrTRo/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Hyy-vKXrTRo/related?v=2"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Hyy-vKXrTRo?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "soundstick62"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/soundstick62"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "allowed"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/Hyy-vKXrTRo/comments?v=2",
+                    "countHint": 5
+                }
+            },
+            "media$group": {
+                "media$category": [{
+                    "$t": "Film",
+                    "label": "Film & Animation",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/Hyy-vKXrTRo?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 310,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v4.cache8.c.youtube.com/CiILENy73wIaGQkaTeulvL4sHxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 310,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v4.cache3.c.youtube.com/CiILENy73wIaGQkaTeulvL4sHxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 310,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "soundstick62",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "Did this in Modul8",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "Ache, Of, The, North, CLARK, Warp, Records, modul8, vj, Turning, Dragon, experimental"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=Hyy-vKXrTRo&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/Hyy-vKXrTRo/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:35",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Hyy-vKXrTRo/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Hyy-vKXrTRo/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:17.500",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Hyy-vKXrTRo/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:35",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Hyy-vKXrTRo/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:03:52.500",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Ache Of The North",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "310"
+                },
+                "yt$uploaded": {
+                    "$t": "2008-03-25T00:27:37.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "Hyy-vKXrTRo"
+                }
+            },
+            "gd$rating": {
+                "average": 4.75,
+                "max": 5,
+                "min": 1,
+                "numRaters": 12,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "18",
+                "viewCount": "2442"
+            },
+            "yt$rating": {
+                "numDislikes": "1",
+                "numLikes": "11"
+            }
+        }, {
+            "gd$etag": "W/\"Dk4HQn47eCp7I2A9WhdbEUQ.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:dXeg0kqv66A"
+            },
+            "published": {
+                "$t": "2008-08-18T18:59:08.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-09T21:15:33.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Music",
+                "label": "Music"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "for"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "wolves"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "crew"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "chris"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "clark"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "davnav88"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "electronic"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "industrial"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "steampunk"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "metropolis"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "turning"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "dragon"
+            }],
+            "title": {
+                "$t": "For Wolves Crew (Clark) [2008]"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/dXeg0kqv66A?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=dXeg0kqv66A&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/dXeg0kqv66A/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/dXeg0kqv66A/related?v=2"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/dXeg0kqv66A?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "DavNav88"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/davnav88"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "allowed"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/dXeg0kqv66A/comments?v=2",
+                    "countHint": 21
+                }
+            },
+            "media$group": {
+                "media$category": [{
+                    "$t": "Music",
+                    "label": "Music",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/dXeg0kqv66A?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 420,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v1.cache5.c.youtube.com/CiILENy73wIaGQmg669K0qB3dRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 420,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v2.cache8.c.youtube.com/CiILENy73wIaGQmg669K0qB3dRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 420,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "DavNav88",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "Music by Chris Clark - \"For Wolves Crew\" from \"Turning Dragon\" [2008] Metropolis (1927), Fritz Lang.",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "for, wolves, crew, chris, clark, davnav88, electronic, industrial, steampunk, metropolis, turning, dragon"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=dXeg0kqv66A&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/dXeg0kqv66A/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:03:30",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/dXeg0kqv66A/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/dXeg0kqv66A/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:45",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/dXeg0kqv66A/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:03:30",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/dXeg0kqv66A/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:05:15",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "For Wolves Crew (Clark) [2008]",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "420"
+                },
+                "yt$uploaded": {
+                    "$t": "2008-08-18T18:59:08.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "dXeg0kqv66A"
+                }
+            },
+            "gd$rating": {
+                "average": 4.911111,
+                "max": 5,
+                "min": 1,
+                "numRaters": 45,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "112",
+                "viewCount": "7810"
+            },
+            "yt$rating": {
+                "numDislikes": "1",
+                "numLikes": "44"
+            }
+        }, {
+            "gd$etag": "W/\"CkUMQn47eCp7I2A9WhdbF0U.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:_nNVsdSWMEI"
+            },
+            "published": {
+                "$t": "2010-05-05T16:19:34.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-16T15:51:23.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Education",
+                "label": "Education"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Authors@Google"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Google"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "atgoogle"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Amy"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Goodman"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Breaking"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "the"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Sound"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Barrier"
+            }],
+            "title": {
+                "$t": "Authors@Google: Amy Goodman"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/_nNVsdSWMEI?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=_nNVsdSWMEI&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/_nNVsdSWMEI/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/_nNVsdSWMEI/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=_nNVsdSWMEI"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/_nNVsdSWMEI?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "AtGoogleTalks"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/atgoogletalks"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "denied"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "yt$hd": {},
+            "media$group": {
+                "media$category": [{
+                    "$t": "Education",
+                    "label": "Education",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/_nNVsdSWMEI?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 4609,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v5.cache2.c.youtube.com/CiILENy73wIaGQlCMJbUsVVz_hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 4609,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v4.cache4.c.youtube.com/CiILENy73wIaGQlCMJbUsVVz_hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 4609,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "AtGoogleTalks",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "Amy Goodman visits Google's Mountain View office to present her book \"Breaking the Sound Barrier\". This event took place on April 30, 2010, as part of the Authors@Google series. Amy Goodman breaks through the corporate medias lies, sound-bites, and silence in this wide-ranging new collection of articles. In place of the usual suspects, the experts who, in Goodmans words, know so little about so much, explain the world to us, and get it so wrong,\" this accessible, lively collection allows the voices the corporate media exclude and ignore to be heard loud and clear. From community organizers in New Orleans, to the courageous American soldiers who've said \"No\" to Washington's wars, to the victims of torture and police violence, we are given the extraordinary opportunity to hear ordinary people standing up and speaking out. As Willie Nelson says, \"There is no one who should be more on the mainstream media, every day reminding us and giving us a glimpse of the power of one.\" Written with all of the fierce intelligence and passion for truth that millions have come to expect from Amy Goodmans reportage, Breaking the Sound Barrier is, in Arianna Huffington's words, \"crusading journalism at its best.\" and, here's an example: www.youtube.com",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "Authors@Google, Google, atgoogle, Amy, Goodman, Breaking, the, Sound, Barrier"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=_nNVsdSWMEI&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/_nNVsdSWMEI/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:38:24.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/_nNVsdSWMEI/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/_nNVsdSWMEI/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:19:12.250",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/_nNVsdSWMEI/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:38:24.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/_nNVsdSWMEI/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:57:36.750",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Authors@Google: Amy Goodman",
+                    "type": "plain"
+                },
+                "yt$aspectRatio": {
+                    "$t": "widescreen"
+                },
+                "yt$duration": {
+                    "seconds": "4609"
+                },
+                "yt$uploaded": {
+                    "$t": "2010-05-05T16:19:34.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "_nNVsdSWMEI"
+                }
+            },
+            "gd$rating": {
+                "average": 4.5373135,
+                "max": 5,
+                "min": 1,
+                "numRaters": 268,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "188",
+                "viewCount": "39778"
+            },
+            "yt$rating": {
+                "numDislikes": "31",
+                "numLikes": "237"
+            }
+        }, {
+            "gd$etag": "W/\"D0cERX47eCp7I2A9WhdbGEk.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:0Qu_zW0ymw8"
+            },
+            "published": {
+                "$t": "2011-10-16T17:47:11.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-17T09:50:04.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Entertainment",
+                "label": "Entertainment"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "external pressure"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "peer pressure"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "limiting beliefs"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "fear"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "friction"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "life"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "succeed"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "men"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "woman"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "way"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "knowledge"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "sam botta"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "celebrity"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "technology"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "steve jobs"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "read"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "learned"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "most inspiring"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "ever"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "overcoming"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "trust"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "freedom"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "without"
+            }],
+            "title": {
+                "$t": "James Bond Sam Botta Roger Moore I Married A Beautiful Woman"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/0Qu_zW0ymw8?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=0Qu_zW0ymw8&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=0Qu_zW0ymw8"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "evanmoore57"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/evanmoore57"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8/comments?v=2",
+                    "countHint": 26
+                }
+            },
+            "yt$hd": {},
+            "media$group": {
+                "media$category": [{
+                    "$t": "Entertainment",
+                    "label": "Entertainment",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/0Qu_zW0ymw8?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 20,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v2.cache5.c.youtube.com/CiILENy73wIaGQkPmzJtzb8L0RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 20,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v3.cache4.c.youtube.com/CiILENy73wIaGQkPmzJtzb8L0RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 20,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "evanmoore57",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "www.imdb.me/livefearless Let's face it, I, Sam Botta, cry at movies. It's what happens when you are reared knowing that you are loved by family. I wish this for you. It's not too late. I'm kind of a screenplay junkie, since every work, every mark on the page, every symbol, every expression... has meaning, intentionally there, thought through and alive. Sure it's an amazing art masterpiece that requires a song's worth of listing at the end of the movie after all. Nope, I'm not going to tell you to bring the kiddos to see \"The Change-Up\" but you should see it. Some know that I've published novels that \"ain't\" in my name because of the advice I give to help folks I care about. Each novel, lovingly written to help them find what I've been taught that can give the effect of them leading happier, more fulfilling, constantly evolving lives that affect, in positive ways, the course of human events. Novels? Yes. The bulk can be written in less than a week with focused, inspired moments that come when you finally are able to completely disappear for a few hours from the mediocre expectations from those in your world that live the same habits, yet slightly remixed, each day.",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "external pressure, peer pressure, limiting beliefs, fear, friction, life, succeed, men, woman, way, knowledge, sam botta, celebrity, technology, steve jobs, read, learned, most inspiring, ever, overcoming, trust, freedom, without"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=0Qu_zW0ymw8&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:10",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:05",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:10",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:15",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "James Bond Sam Botta Roger Moore I Married A Beautiful Woman",
+                    "type": "plain"
+                },
+                "yt$aspectRatio": {
+                    "$t": "widescreen"
+                },
+                "yt$duration": {
+                    "seconds": "20"
+                },
+                "yt$uploaded": {
+                    "$t": "2011-10-16T17:47:11.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "0Qu_zW0ymw8"
+                }
+            },
+            "gd$rating": {
+                "average": 2.1818182,
+                "max": 5,
+                "min": 1,
+                "numRaters": 44,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "16",
+                "viewCount": "15053"
+            },
+            "yt$rating": {
+                "numDislikes": "31",
+                "numLikes": "13"
+            }
+        }, {
+            "gd$etag": "W/\"C0IHRn47eCp7I2A9WhdXEEQ.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:Dr82YJAFVXI"
+            },
+            "published": {
+                "$t": "2011-08-23T09:25:37.000Z"
+            },
+            "updated": {
+                "$t": "2011-08-23T09:25:37.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "People",
+                "label": "People & Blogs"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Zithromax for UTI"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Zithromax"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Azithromycin"
+            }],
+            "title": {
+                "$t": "Zithromax for UTI"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/Dr82YJAFVXI?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=Dr82YJAFVXI&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Dr82YJAFVXI/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Dr82YJAFVXI/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=Dr82YJAFVXI"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Dr82YJAFVXI?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "zithromax500"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/zithromax500"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/Dr82YJAFVXI/comments?v=2",
+                    "countHint": 0
+                }
+            },
+            "media$group": {
+                "media$category": [{
+                    "$t": "People",
+                    "label": "People & Blogs",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/Dr82YJAFVXI?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 35,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v6.cache8.c.youtube.com/CiILENy73wIaGQlyVQWQYDa_DhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 35,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v7.cache8.c.youtube.com/CiILENy73wIaGQlyVQWQYDa_DhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 35,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "zithromax500",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "Zithromax for UTI - link to online store 6drugs.com Generic Azithromycin (Zithromax) 500mg / 250mg / 100mg Azithromycin is an antibiotic. It is prescribed for adults to treat certain mild to moderate skin infections; upper and lower respiratory tract infections, including pharyngitis (strep throat), tonsillitis, sinus infections, worsening of chronic obstructive pulmonary disease, and pneumonia; sexually transmitted infections of the cervix or urinary tract; and genital ulcer disease in men. Amazing quality of Azithromycin - Zithromax zithromax for uti in men zithromax for uti",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "Zithromax for UTI, Zithromax, Azithromycin"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=Dr82YJAFVXI&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/Dr82YJAFVXI/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:17.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Dr82YJAFVXI/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Dr82YJAFVXI/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:08.750",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Dr82YJAFVXI/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:17.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Dr82YJAFVXI/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:26.250",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Zithromax for UTI",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "35"
+                },
+                "yt$uploaded": {
+                    "$t": "2011-08-23T09:25:37.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "Dr82YJAFVXI"
+                }
+            },
+            "yt$statistics": {
+                "favoriteCount": "0",
+                "viewCount": "100"
+            }
+        }]
+    }
+});

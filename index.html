@@ -1,0 +1,44 @@
+<html>
+    <head>
+    </head>
+    <body style="padding:0px; margin:0px;">
+        <div style="width:820px; margin-left:2px;">
+            <form id="searchForm">
+                <input id="searchInput" type="text" value="Search album on" style="width:420px;"/>
+                <select id="searchSelect">
+                    <option value="discogs">Discogs</option>
+                    <option value="ytb">Youtube</option>
+                    <option value="wiki">Wikipedia</option>
+                </select>
+            </form>
+            <div>
+                <div style="float:left; width:540px">
+                    <form id="filterForm" style="margin-bottom:0px">
+                        <input id="filterInput" type="text" value="Filter" disabled/>
+                    </form>
+                    <div id="resultsDiv" style="width:540px; height:378px; overflow-y:scroll; border:1px solid lightgrey;">
+                    </div>
+                </div>
+                <div style="float:left; width:263px; margin-left:10px;">
+                    <input id="artistInput" type="text" value="Artist" style="width:261px;"/>
+                    <div>
+                        <textarea id="searchlistArea" rows="20" cols="30" style="float:left; height:380px; margin:0px" wrap="off"></textarea>
+                        <div id="itemCursor" style="visibility:hidden; height:8px; width:5px; background-color:black; position:relative; top:5px; left:-4px;"></div>
+                    </div>
+                    <input id="processButton" type="button" value="Process list"/>
+                    <input id="prevButton" type="button" value="Previous" style="visibility:hidden;"/>
+                    <input id="nextButton" type="button" value="Next" style="visibility:hidden;"/>
+                </div>
+            </div>
+            <div>
+                <textarea id="dumpArea" rows="10" cols="50" style="width:811px; display:block;"></textarea>
+                <button id="dumpButton" style="display:block">Dump data</button>
+            </div>
+        </div>
+        <script src="parse.js" type="text/Javascript"></script>
+        <!--
+        <script id="bodyRiddle" type="application/xml" src="http://en.wikipedia.org/wiki/Special:Export/Body_Riddle"
+            onload="loadXML(this)"></script>
+        -->
+    </body>
+</html>

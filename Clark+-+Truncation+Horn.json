@@ -1,0 +1,988 @@
+displayYTBResults({
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$media": "http://search.yahoo.com/mrss/",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearch/1.1/",
+        "xmlns$gd": "http://schemas.google.com/g/2005",
+        "xmlns$yt": "http://gdata.youtube.com/schemas/2007",
+        "gd$etag": "W/\"A0QERXY7eCp7I2A9WhdbGEs.\"",
+        "id": {
+            "$t": "tag:youtube.com,2008:videos"
+        },
+        "updated": {
+            "$t": "2011-10-17T16:35:04.800Z"
+        },
+        "category": [{
+            "scheme": "http://schemas.google.com/g/2005#kind",
+            "term": "http://gdata.youtube.com/schemas/2007#video"
+        }],
+        "title": {
+            "$t": "YouTube Videos matching query: Clark - Truncation Horn"
+        },
+        "logo": {
+            "$t": "http://www.youtube.com/img/pic_youtubelogo_123x63.gif"
+        },
+        "link": [{
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.youtube.com"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#feed",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?v=2"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#batch",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos/batch?v=2"
+        }, {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?alt=json&q=Clark+-+Truncation+Horn&start-index=1&max-results=25&v=2"
+        }, {
+            "rel": "service",
+            "type": "application/atomsvc+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?alt=atom-service&v=2"
+        }],
+        "author": [{
+            "name": {
+                "$t": "YouTube"
+            },
+            "uri": {
+                "$t": "http://www.youtube.com/"
+            }
+        }],
+        "generator": {
+            "$t": "YouTube data API",
+            "version": "2.1",
+            "uri": "http://gdata.youtube.com"
+        },
+        "openSearch$totalResults": {
+            "$t": 4
+        },
+        "openSearch$startIndex": {
+            "$t": 1
+        },
+        "openSearch$itemsPerPage": {
+            "$t": 25
+        },
+        "entry": [{
+            "gd$etag": "W/\"DEAMSX47eCp7I2A9WhZWF0g.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:QvWmxZ_qnes"
+            },
+            "published": {
+                "$t": "2009-10-30T13:17:56.000Z"
+            },
+            "updated": {
+                "$t": "2011-05-18T22:13:08.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "People",
+                "label": "People & Blogs"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Clark"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Truncation"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Horn"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "drumbass"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "experimental"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "crazy"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "mucke"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "musik"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "D&B"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "cool"
+            }],
+            "title": {
+                "$t": "Clark Truncation Horn"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/QvWmxZ_qnes?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=QvWmxZ_qnes&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/QvWmxZ_qnes/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/QvWmxZ_qnes/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=QvWmxZ_qnes"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/QvWmxZ_qnes?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "Lumicron"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/lumicron"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/QvWmxZ_qnes/comments?v=2",
+                    "countHint": 2
+                }
+            },
+            "media$group": {
+                "media$category": [{
+                    "$t": "People",
+                    "label": "People & Blogs",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/QvWmxZ_qnes?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 133,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v8.cache8.c.youtube.com/CiILENy73wIaGQnrneqfxab1QhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 133,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v5.cache3.c.youtube.com/CiILENy73wIaGQnrneqfxab1QhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 133,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "Lumicron",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "Clark, Truncation, Horn, drumbass, experimental, crazy, mucke, musik, D&B, cool"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=QvWmxZ_qnes&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/QvWmxZ_qnes/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:06.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/QvWmxZ_qnes/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/QvWmxZ_qnes/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:33.250",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/QvWmxZ_qnes/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:06.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/QvWmxZ_qnes/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:39.750",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Clark Truncation Horn",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "133"
+                },
+                "yt$uploaded": {
+                    "$t": "2009-10-30T13:17:56.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "QvWmxZ_qnes"
+                }
+            },
+            "gd$rating": {
+                "average": 5.0,
+                "max": 5,
+                "min": 1,
+                "numRaters": 9,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "17",
+                "viewCount": "2067"
+            },
+            "yt$rating": {
+                "numDislikes": "0",
+                "numLikes": "9"
+            }
+        }, {
+            "gd$etag": "W/\"C0IFRX47eCp7I2A9WhdbFkU.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:8Y6ZqYab8Rc"
+            },
+            "published": {
+                "$t": "2011-02-20T07:19:29.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-15T12:25:14.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Music",
+                "label": "Music"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Clark"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Truncation"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Horn"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Turning"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Dragon"
+            }],
+            "title": {
+                "$t": "Clark- Truncation Horn"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/8Y6ZqYab8Rc?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=8Y6ZqYab8Rc&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/8Y6ZqYab8Rc/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/8Y6ZqYab8Rc/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=8Y6ZqYab8Rc"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/8Y6ZqYab8Rc?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "ydnABB11"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/ydnabb11"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/8Y6ZqYab8Rc/comments?v=2",
+                    "countHint": 2
+                }
+            },
+            "yt$hd": {},
+            "media$group": {
+                "media$category": [{
+                    "$t": "Music",
+                    "label": "Music",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/8Y6ZqYab8Rc?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 141,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v4.cache2.c.youtube.com/CiILENy73wIaGQkX8ZuGqZmO8RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 141,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v7.cache8.c.youtube.com/CiILENy73wIaGQkX8ZuGqZmO8RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 141,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "ydnABB11",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "Clark, Truncation, Horn, Turning, Dragon"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=8Y6ZqYab8Rc&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/8Y6ZqYab8Rc/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:10.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/8Y6ZqYab8Rc/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/8Y6ZqYab8Rc/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:35.250",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/8Y6ZqYab8Rc/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:10.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/8Y6ZqYab8Rc/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:45.750",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Clark- Truncation Horn",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "141"
+                },
+                "yt$uploaded": {
+                    "$t": "2011-02-20T07:19:29.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "8Y6ZqYab8Rc"
+                }
+            },
+            "gd$rating": {
+                "average": 5.0,
+                "max": 5,
+                "min": 1,
+                "numRaters": 7,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "13",
+                "viewCount": "1469"
+            },
+            "yt$rating": {
+                "numDislikes": "0",
+                "numLikes": "7"
+            }
+        }, {
+            "gd$etag": "W/\"CUANRX47eCp7I2A9Wx9bEE0.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:xRrsRYGUYtc"
+            },
+            "published": {
+                "$t": "2009-04-06T05:32:11.000Z"
+            },
+            "updated": {
+                "$t": "2011-02-18T04:36:34.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Film",
+                "label": "Film & Animation"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "chris"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "clark"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "truncation"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "horn"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "scratch"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "on"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "film"
+            }],
+            "title": {
+                "$t": "Chris Clark - Truncation Horn"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/xRrsRYGUYtc?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=xRrsRYGUYtc&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/xRrsRYGUYtc/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/xRrsRYGUYtc/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=xRrsRYGUYtc"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/xRrsRYGUYtc?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "Micaelas"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/micaelas"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/xRrsRYGUYtc/comments?v=2",
+                    "countHint": 1
+                }
+            },
+            "media$group": {
+                "media$category": [{
+                    "$t": "Film",
+                    "label": "Film & Animation",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/xRrsRYGUYtc?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 43,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v3.cache4.c.youtube.com/CiILENy73wIaGQnXYpSBRewaxRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 43,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v1.cache5.c.youtube.com/CiILENy73wIaGQnXYpSBRewaxRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 43,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "Micaelas",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "A video I made using the \"scratch on film\" technique inspired by the one and only: CHRIS CLARK!!! Hope you enjoy it!",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "chris, clark, truncation, horn, scratch, on, film"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=xRrsRYGUYtc&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/xRrsRYGUYtc/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:21.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/xRrsRYGUYtc/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/xRrsRYGUYtc/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:10.750",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/xRrsRYGUYtc/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:21.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/xRrsRYGUYtc/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:32.250",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Chris Clark - Truncation Horn",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "43"
+                },
+                "yt$uploaded": {
+                    "$t": "2009-04-06T05:32:11.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "xRrsRYGUYtc"
+                }
+            },
+            "gd$rating": {
+                "average": 5.0,
+                "max": 5,
+                "min": 1,
+                "numRaters": 9,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "4",
+                "viewCount": "756"
+            },
+            "yt$rating": {
+                "numDislikes": "0",
+                "numLikes": "9"
+            }
+        }, {
+            "gd$etag": "W/\"D0cERX47eCp7I2A9WhdbGEk.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:0Qu_zW0ymw8"
+            },
+            "published": {
+                "$t": "2011-10-16T17:47:11.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-17T09:50:04.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Entertainment",
+                "label": "Entertainment"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "external pressure"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "peer pressure"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "limiting beliefs"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "fear"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "friction"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "life"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "succeed"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "men"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "woman"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "way"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "knowledge"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "sam botta"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "celebrity"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "technology"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "steve jobs"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "read"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "learned"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "most inspiring"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "ever"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "overcoming"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "trust"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "freedom"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "without"
+            }],
+            "title": {
+                "$t": "James Bond Sam Botta Roger Moore I Married A Beautiful Woman"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/0Qu_zW0ymw8?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=0Qu_zW0ymw8&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=0Qu_zW0ymw8"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "evanmoore57"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/evanmoore57"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/0Qu_zW0ymw8/comments?v=2",
+                    "countHint": 26
+                }
+            },
+            "yt$hd": {},
+            "media$group": {
+                "media$category": [{
+                    "$t": "Entertainment",
+                    "label": "Entertainment",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/0Qu_zW0ymw8?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 20,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v2.cache5.c.youtube.com/CiILENy73wIaGQkPmzJtzb8L0RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 20,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v3.cache4.c.youtube.com/CiILENy73wIaGQkPmzJtzb8L0RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 20,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "evanmoore57",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "www.imdb.me/livefearless Let's face it, I, Sam Botta, cry at movies. It's what happens when you are reared knowing that you are loved by family. I wish this for you. It's not too late. I'm kind of a screenplay junkie, since every work, every mark on the page, every symbol, every expression... has meaning, intentionally there, thought through and alive. Sure it's an amazing art masterpiece that requires a song's worth of listing at the end of the movie after all. Nope, I'm not going to tell you to bring the kiddos to see \"The Change-Up\" but you should see it. Some know that I've published novels that \"ain't\" in my name because of the advice I give to help folks I care about. Each novel, lovingly written to help them find what I've been taught that can give the effect of them leading happier, more fulfilling, constantly evolving lives that affect, in positive ways, the course of human events. Novels? Yes. The bulk can be written in less than a week with focused, inspired moments that come when you finally are able to completely disappear for a few hours from the mediocre expectations from those in your world that live the same habits, yet slightly remixed, each day.",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "external pressure, peer pressure, limiting beliefs, fear, friction, life, succeed, men, woman, way, knowledge, sam botta, celebrity, technology, steve jobs, read, learned, most inspiring, ever, overcoming, trust, freedom, without"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=0Qu_zW0ymw8&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:10",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:05",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:10",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/0Qu_zW0ymw8/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:15",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "James Bond Sam Botta Roger Moore I Married A Beautiful Woman",
+                    "type": "plain"
+                },
+                "yt$aspectRatio": {
+                    "$t": "widescreen"
+                },
+                "yt$duration": {
+                    "seconds": "20"
+                },
+                "yt$uploaded": {
+                    "$t": "2011-10-16T17:47:11.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "0Qu_zW0ymw8"
+                }
+            },
+            "gd$rating": {
+                "average": 2.1818182,
+                "max": 5,
+                "min": 1,
+                "numRaters": 44,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "16",
+                "viewCount": "15053"
+            },
+            "yt$rating": {
+                "numDislikes": "31",
+                "numLikes": "13"
+            }
+        }]
+    }
+});

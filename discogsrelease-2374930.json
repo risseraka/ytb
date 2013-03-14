@@ -1,0 +1,69 @@
+displayDiscogsRelease({
+    "resp": {
+        "status": true,
+        "release": {
+            "status": "Accepted",
+            "styles": ["Breakbeat"],
+            "genres": ["Electronic"],
+            "labels": [{
+                "catno": "none",
+                "name": "Take Me To The Hospital",
+                "entity_type": ""
+            }],
+            "extraartists": [{
+                "tracks": "",
+                "role": "Film Director [Uncredited]",
+                "anv": "",
+                "join": "",
+                "name": "Paul Dugdale"
+            }],
+            "videos": [{
+                "duration": 302,
+                "description": "The Prodigy - Mescaline (Original)",
+                "embed": true,
+                "uri": "http://www.youtube.com/watch?v=RduPZ2FIZPc",
+                "title": "The Prodigy - Mescaline (Original)"
+            }, {
+                "duration": 296,
+                "description": "The Prodigy - Invaders Must Die",
+                "embed": true,
+                "uri": "http://www.youtube.com/watch?v=tltYB4NJqC4",
+                "title": "The Prodigy - Invaders Must Die"
+            }],
+            "title": "Invaders Must Die",
+            "series": [],
+            "country": "Japan",
+            "released_formatted": "2009",
+            "artists": [{
+                "tracks": "",
+                "role": "",
+                "anv": "",
+                "join": "",
+                "name": "Prodigy, The"
+            }],
+            "companies": [],
+            "released": "2009",
+            "formats": [{
+                "descriptions": ["DVD-Video", "Single", "Promo"],
+                "name": "DVDr",
+                "qty": "1"
+            }],
+            "year": 2009,
+            "images": [{
+                "width": 600,
+                "uri150": "http://api.discogs.com/image/R-150-2374930-1280338150.jpeg",
+                "type": "secondary",
+                "uri": "http://api.discogs.com/image/R-2374930-1280338150.jpeg",
+                "height": 539
+            }],
+            "master_id": 199432,
+            "tracklist": [{
+                "duration": "3:25",
+                "position": "1",
+                "title": "Invaders Must Die"
+            }],
+            "id": 2374930
+        },
+        "version": "2.0"
+    }
+})

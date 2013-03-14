@@ -1,0 +1,698 @@
+displayYTBResults({
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$media": "http://search.yahoo.com/mrss/",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearch/1.1/",
+        "xmlns$gd": "http://schemas.google.com/g/2005",
+        "xmlns$yt": "http://gdata.youtube.com/schemas/2007",
+        "gd$etag": "W/\"A0QBQHk_fSp7I2A9WhdbGEs.\"",
+        "id": {
+            "$t": "tag:youtube.com,2008:videos"
+        },
+        "updated": {
+            "$t": "2011-10-17T16:35:51.745Z"
+        },
+        "category": [{
+            "scheme": "http://schemas.google.com/g/2005#kind",
+            "term": "http://gdata.youtube.com/schemas/2007#video"
+        }],
+        "title": {
+            "$t": "YouTube Videos matching query: Clark - Gaskarth / Cyrk Dedication"
+        },
+        "logo": {
+            "$t": "http://www.youtube.com/img/pic_youtubelogo_123x63.gif"
+        },
+        "link": [{
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.youtube.com"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#feed",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?v=2"
+        }, {
+            "rel": "http://schemas.google.com/g/2005#batch",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos/batch?v=2"
+        }, {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?alt=json&q=Clark+-+Gaskarth+/+Cyrk+Dedication&start-index=1&max-results=25&v=2"
+        }, {
+            "rel": "service",
+            "type": "application/atomsvc+xml",
+            "href": "https://gdata.youtube.com/feeds/api/videos?alt=atom-service&v=2"
+        }],
+        "author": [{
+            "name": {
+                "$t": "YouTube"
+            },
+            "uri": {
+                "$t": "http://www.youtube.com/"
+            }
+        }],
+        "generator": {
+            "$t": "YouTube data API",
+            "version": "2.1",
+            "uri": "http://gdata.youtube.com"
+        },
+        "openSearch$totalResults": {
+            "$t": 3
+        },
+        "openSearch$startIndex": {
+            "$t": 1
+        },
+        "openSearch$itemsPerPage": {
+            "$t": 25
+        },
+        "entry": [{
+            "gd$etag": "W/\"DEMGR347eCp7I2A9WhZTFE8.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:v6gIqmutkIk"
+            },
+            "published": {
+                "$t": "2011-03-18T05:33:46.000Z"
+            },
+            "updated": {
+                "$t": "2011-03-18T05:33:46.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Music",
+                "label": "Music"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Clark"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Gaskarth"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Cyrk"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "Dedication"
+            }],
+            "title": {
+                "$t": "Clark Gaskarth/Cyrk Dedication"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/v6gIqmutkIk?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=v6gIqmutkIk&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/v6gIqmutkIk/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/v6gIqmutkIk/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=v6gIqmutkIk"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/v6gIqmutkIk?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "ydnABB11"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/ydnabb11"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "moderated"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/v6gIqmutkIk/comments?v=2",
+                    "countHint": 0
+                }
+            },
+            "yt$hd": {},
+            "media$group": {
+                "media$category": [{
+                    "$t": "Music",
+                    "label": "Music",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/v6gIqmutkIk?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 295,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v8.cache3.c.youtube.com/CiILENy73wIaGQmJkK1rqgiovxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 295,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v4.cache3.c.youtube.com/CiILENy73wIaGQmJkK1rqgiovxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 295,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "ydnABB11",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "Clark, Gaskarth, Cyrk, Dedication"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=v6gIqmutkIk&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/v6gIqmutkIk/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:27.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/v6gIqmutkIk/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/v6gIqmutkIk/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:13.750",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/v6gIqmutkIk/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:27.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/v6gIqmutkIk/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:03:41.250",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Clark Gaskarth/Cyrk Dedication",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "295"
+                },
+                "yt$uploaded": {
+                    "$t": "2011-03-18T05:33:46.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "v6gIqmutkIk"
+                }
+            },
+            "yt$statistics": {
+                "favoriteCount": "0",
+                "viewCount": "97"
+            }
+        }, {
+            "gd$etag": "W/\"DEIMRn47eCp7I2A9WhdbFk8.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:A_Jg6897GaQ"
+            },
+            "published": {
+                "$t": "2009-11-25T23:26:17.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-14T21:09:47.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Music",
+                "label": "Music"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "clark"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "chris"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "turning dragon"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "warp records"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "idm"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "electronic"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "volcan veins"
+            }],
+            "title": {
+                "$t": "Clark - Volcan Veins"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/A_Jg6897GaQ?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=A_Jg6897GaQ&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/A_Jg6897GaQ/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/A_Jg6897GaQ/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=A_Jg6897GaQ"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/A_Jg6897GaQ?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "m3trx"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/m3trx"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "allowed"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/A_Jg6897GaQ/comments?v=2",
+                    "countHint": 24
+                }
+            },
+            "media$group": {
+                "media$category": [{
+                    "$t": "Music",
+                    "label": "Music",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/A_Jg6897GaQ?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 246,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v7.cache6.c.youtube.com/CiILENy73wIaGQmkGXvP62DyAxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 246,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v8.cache8.c.youtube.com/CiILENy73wIaGQmkGXvP62DyAxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 246,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "m3trx",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "taken from the album \"Turning Dragon\" more @ disphunktional.blogspot.com",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "clark, chris, turning dragon, warp records, idm, electronic, volcan veins"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=A_Jg6897GaQ&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/A_Jg6897GaQ/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:03",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/A_Jg6897GaQ/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/A_Jg6897GaQ/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:01.500",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/A_Jg6897GaQ/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:03",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/A_Jg6897GaQ/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:03:04.500",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Clark - Volcan Veins",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "246"
+                },
+                "yt$uploaded": {
+                    "$t": "2009-11-25T23:26:17.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "A_Jg6897GaQ"
+                }
+            },
+            "gd$rating": {
+                "average": 5.0,
+                "max": 5,
+                "min": 1,
+                "numRaters": 66,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "137",
+                "viewCount": "16589"
+            },
+            "yt$rating": {
+                "numDislikes": "0",
+                "numLikes": "66"
+            }
+        }, {
+            "gd$etag": "W/\"C0cGRn47eCp7I2A9WhdbEU0.\"",
+            "id": {
+                "$t": "tag:youtube.com,2008:video:Qml0GNGITcs"
+            },
+            "published": {
+                "$t": "2009-11-25T23:00:50.000Z"
+            },
+            "updated": {
+                "$t": "2011-10-08T19:10:27.000Z"
+            },
+            "category": [{
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+                "term": "Music",
+                "label": "Music"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "clark"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "chris"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "turning dragon"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "warp records"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "idm"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "electronic"
+            }, {
+                "scheme": "http://gdata.youtube.com/schemas/2007/keywords.cat",
+                "term": "hot may sides"
+            }],
+            "title": {
+                "$t": "Clark - Hot May Slides"
+            },
+            "content": {
+                "type": "application/x-shockwave-flash",
+                "src": "https://www.youtube.com/v/Qml0GNGITcs?version=3&f=videos&app=youtube_gdata"
+            },
+            "link": [{
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.youtube.com/watch?v=Qml0GNGITcs&feature=youtube_gdata"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.responses",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Qml0GNGITcs/responses?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#video.related",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Qml0GNGITcs/related?v=2"
+            }, {
+                "rel": "http://gdata.youtube.com/schemas/2007#mobile",
+                "type": "text/html",
+                "href": "https://m.youtube.com/details?v=Qml0GNGITcs"
+            }, {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://gdata.youtube.com/feeds/api/videos/Qml0GNGITcs?v=2"
+            }],
+            "author": [{
+                "name": {
+                    "$t": "m3trx"
+                },
+                "uri": {
+                    "$t": "https://gdata.youtube.com/feeds/api/users/m3trx"
+                }
+            }],
+            "yt$accessControl": [{
+                "action": "comment",
+                "permission": "allowed"
+            }, {
+                "action": "commentVote",
+                "permission": "allowed"
+            }, {
+                "action": "videoRespond",
+                "permission": "allowed"
+            }, {
+                "action": "rate",
+                "permission": "allowed"
+            }, {
+                "action": "embed",
+                "permission": "allowed"
+            }, {
+                "action": "list",
+                "permission": "allowed"
+            }, {
+                "action": "autoPlay",
+                "permission": "allowed"
+            }, {
+                "action": "syndicate",
+                "permission": "allowed"
+            }],
+            "gd$comments": {
+                "gd$feedLink": {
+                    "href": "https://gdata.youtube.com/feeds/api/videos/Qml0GNGITcs/comments?v=2",
+                    "countHint": 4
+                }
+            },
+            "media$group": {
+                "media$category": [{
+                    "$t": "Music",
+                    "label": "Music",
+                    "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat"
+                }],
+                "media$content": [{
+                    "url": "https://www.youtube.com/v/Qml0GNGITcs?version=3&f=videos&app=youtube_gdata",
+                    "type": "application/x-shockwave-flash",
+                    "medium": "video",
+                    "isDefault": "true",
+                    "expression": "full",
+                    "duration": 167,
+                    "yt$format": 5
+                }, {
+                    "url": "rtsp://v6.cache1.c.youtube.com/CiILENy73wIaGQnLTYjRGHRpQhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 167,
+                    "yt$format": 1
+                }, {
+                    "url": "rtsp://v5.cache3.c.youtube.com/CiILENy73wIaGQnLTYjRGHRpQhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                    "type": "video/3gpp",
+                    "medium": "video",
+                    "expression": "full",
+                    "duration": 167,
+                    "yt$format": 6
+                }],
+                "media$credit": [{
+                    "$t": "m3trx",
+                    "role": "uploader",
+                    "scheme": "urn:youtube"
+                }],
+                "media$description": {
+                    "$t": "taken from the album \"Turning Dragon\" more @ disphunktional.blogspot.com",
+                    "type": "plain"
+                },
+                "media$keywords": {
+                    "$t": "clark, chris, turning dragon, warp records, idm, electronic, hot may sides"
+                },
+                "media$license": {
+                    "$t": "youtube",
+                    "type": "text/html",
+                    "href": "http://www.youtube.com/t/terms"
+                },
+                "media$player": {
+                    "url": "https://www.youtube.com/watch?v=Qml0GNGITcs&feature=youtube_gdata_player"
+                },
+                "media$thumbnail": [{
+                    "url": "http://i.ytimg.com/vi/Qml0GNGITcs/default.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:23.500",
+                    "yt$name": "default"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Qml0GNGITcs/hqdefault.jpg",
+                    "height": 360,
+                    "width": 480,
+                    "yt$name": "hqdefault"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Qml0GNGITcs/1.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:00:41.750",
+                    "yt$name": "start"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Qml0GNGITcs/2.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:01:23.500",
+                    "yt$name": "middle"
+                }, {
+                    "url": "http://i.ytimg.com/vi/Qml0GNGITcs/3.jpg",
+                    "height": 90,
+                    "width": 120,
+                    "time": "00:02:05.250",
+                    "yt$name": "end"
+                }],
+                "media$title": {
+                    "$t": "Clark - Hot May Slides",
+                    "type": "plain"
+                },
+                "yt$duration": {
+                    "seconds": "167"
+                },
+                "yt$uploaded": {
+                    "$t": "2009-11-25T23:00:50.000Z"
+                },
+                "yt$videoid": {
+                    "$t": "Qml0GNGITcs"
+                }
+            },
+            "gd$rating": {
+                "average": 5.0,
+                "max": 5,
+                "min": 1,
+                "numRaters": 18,
+                "rel": "http://schemas.google.com/g/2005#overall"
+            },
+            "yt$statistics": {
+                "favoriteCount": "29",
+                "viewCount": "3993"
+            },
+            "yt$rating": {
+                "numDislikes": "0",
+                "numLikes": "18"
+            }
+        }]
+    }
+});

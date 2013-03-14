@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.18wmf1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Body Riddle</title>
+    <id>6831212</id>
+    <revision>
+      <id>437074067</id>
+      <timestamp>2011-06-30T16:25:43Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Warp Records albums to [[:Category:Warp (record label) albums]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 June 15]].</comment>
+      <text xml:space="preserve" bytes="2551">{{Infobox Album | &lt;!-- See Wikipedia:WikiProject_Albums --&gt;
+  Name        = Body Riddle |
+  Type        = [[Album]] |
+  Artist      = [[Chris Clark (electronic musician)|Chris Clark]] |
+  Cover       = Body Riddle.jpg |
+  Released    = October 2, 2006 |
+  Recorded    = |
+  Genre       = [[Electronic music|Electronic]], [[intelligent dance music|IDM]] |
+  Label       = [[Warp Records]] |
+  Producer    = [[Chris Clark (electronic musician)|Chris Clark]] |
+  Reviews     = * [[Almostcool]] '''80%''' [http://www.almostcool.org/mr/1912/ link]
+* [[Playboy]] {{Rating|2.5|4}} [http://www.playboy.com/arts-entertainment/reviews/music/clark/ link]
+* [[Playlouder]] {{Rating|3.5|5}} [http://playlouder.com/review/+body-riddle/ link]
+* [[Pitchfork Media]] 8.5/10 [http://www.pitchforkmedia.com/article/record_review/39320-body-riddle link]|
+Last album  = ''[[Empty The Bones Of You]]'' &lt;br /&gt; (2003) |
+This album  = '''''Body Riddle''''' &lt;br /&gt; (2006) |
+Next album  = ''[[Turning Dragon]]'' &lt;br /&gt; (2008) |
+}}
+
+'''''Body Riddle''''' is an [[album]] by [[electronic music|electronic]] musician [[Chris Clark (electronic musician)|Clark]], released on October 2, 2006 on the [[Warp Records]] [[record label|label]] (see [[2006 in music]]).The music video for the song &quot;Ted&quot; was selected by Pitchfork as one of the top music videos of 2007.&lt;ref&gt;{{cite web | title = Pitchfork: Staff Lists: Top 50 Music Videos of 2007 | publisher = Pitchfork Media | url = http://pitchfork.com/features/staff-lists/6748-top-50-music-videos-of-2007 | accessdate =2008-07-22}}&lt;/ref&gt; &quot;Vengeance Drools&quot; was later used in the 2009 short film ''[[Cut (advert)|Cut]]'', promoting the charitable organisation [[Women's Aid]].
+
+==Track listing==
+{{tracklist
+| title1 = Herr Bar
+| length1 = 3:54
+| title2 = Frau Wav
+| length2 = 4:12
+| title3 = Springtime Epigram
+| length3 = 1:35
+| title4 = Herzog
+| length4 = 4:23
+| title5 = Ted
+| length5 = 2:54
+| title6 = Roulette Thrift Run
+| length6 = 3:22
+| title7 = Vengeance Drools
+| length7 = 3:43
+| title8 = Dew on the Mouth
+| length8 = 1:05
+| title9 = Matthew Unburdened
+| length9 = 5:39
+| title10 = Night Knuckles
+| length10 = 3:49
+| title11 = The Autumnal Crush
+| length11 = 7:27
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.throttleclark.com/bodyriddle/ The entire ''Body Riddle'' album on-line, with track names and music videos.]
+
+{{Chris Clark}}
+
+[[Category:2006 albums]]
+[[Category:Chris Clark albums]]
+[[Category:Warp (record label) albums]]
+
+
+{{2000s-electronic-album-stub}}
+
+[[pl:Body Riddle]]
+[[ru:Body Riddle]]</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,122 @@
+displayDiscogsRelease({
+    "resp": {
+        "status": true,
+        "release": {
+            "status": "Accepted",
+            "styles": ["Breaks", "Big Beat"],
+            "genres": ["Electronic"],
+            "labels": [{
+                "catno": "HOSPDL001",
+                "name": "Take Me To The Hospital",
+                "entity_type": ""
+            }],
+            "extraartists": [],
+            "videos": [{
+                "duration": 215,
+                "description": "The Prodigy - Invaders Must Die Cooking Vinyl Records",
+                "embed": true,
+                "uri": "http://www.youtube.com/watch?v=9Ku6gagYh80",
+                "title": "The Prodigy - Invaders Must Die Cooking Vinyl Records"
+            }, {
+                "duration": 252,
+                "description": "Thunder - The Prodigy",
+                "embed": true,
+                "uri": "http://www.youtube.com/watch?v=erog0qc1REI",
+                "title": "Thunder - The Prodigy"
+            }, {
+                "duration": 284,
+                "description": "The Prodigy - Warrior's Dance (Benga Remix)",
+                "embed": true,
+                "uri": "http://www.youtube.com/watch?v=owhQ4c4lhpc",
+                "title": "The Prodigy - Warrior's Dance (Benga Remix)"
+            }, {
+                "duration": 296,
+                "description": "The Prodigy - Invaders Must Die - Invaders Must Die",
+                "embed": true,
+                "uri": "http://www.youtube.com/watch?v=PWlvLwLv1f4",
+                "title": "The Prodigy - Invaders Must Die - Invaders Must Die"
+            }, {
+                "duration": 379,
+                "description": "The Prodigy - Omen (Noisia Remix) Full unedited",
+                "embed": true,
+                "uri": "http://www.youtube.com/watch?v=INhzlIz4QXA",
+                "title": "The Prodigy - Omen (Noisia Remix) Full unedited"
+            }],
+            "title": "Invaders Must Die",
+            "series": [],
+            "country": "UK",
+            "released_formatted": "23 Feb 2009",
+            "artists": [{
+                "tracks": "",
+                "role": "",
+                "anv": "",
+                "join": "",
+                "name": "Prodigy, The"
+            }],
+            "companies": [],
+            "released": "2009-02-23",
+            "formats": [{
+                "descriptions": ["MP3", "Album"],
+                "text": "320 kbps",
+                "name": "File",
+                "qty": "11"
+            }],
+            "year": 2009,
+            "images": [{
+                "width": 600,
+                "uri150": "http://api.discogs.com/image/R-150-3021317-1312096189.jpeg",
+                "type": "secondary",
+                "uri": "http://api.discogs.com/image/R-3021317-1312096189.jpeg",
+                "height": 600
+            }],
+            "master_id": 30484,
+            "tracklist": [{
+                "duration": "4:55",
+                "position": "1",
+                "title": "Invaders Must Die"
+            }, {
+                "duration": "3:36",
+                "position": "2",
+                "title": "Omen"
+            }, {
+                "duration": "4:09",
+                "position": "3",
+                "title": "Thunder"
+            }, {
+                "duration": "3:27",
+                "position": "4",
+                "title": "Colours"
+            }, {
+                "duration": "3:40",
+                "position": "5",
+                "title": "Take Me To The Hospital"
+            }, {
+                "duration": "5:12",
+                "position": "6",
+                "title": "Warrior's Dance"
+            }, {
+                "duration": "4:24",
+                "position": "7",
+                "title": "Run With The Wolves"
+            }, {
+                "duration": "2:14",
+                "position": "8",
+                "title": "Omen Reprise"
+            }, {
+                "duration": "4:50",
+                "position": "9",
+                "title": "World's On Fire"
+            }, {
+                "duration": "4:04",
+                "position": "10",
+                "title": "Piranha"
+            }, {
+                "duration": "5:30",
+                "position": "11",
+                "title": "Stand Up"
+            }],
+            "id": 3021317
+        },
+        "version": "2.0"
+    }
+})
